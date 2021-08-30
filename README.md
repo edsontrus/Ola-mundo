@@ -2,3 +2,6 @@
  Primeiro repositorio do curso de Git e Github
 
  Repositório criado através do curso.
+ 
+ Adicionei essa linha diretamente do site.
+ 
